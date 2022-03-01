@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2.Van</folder>
+	<filename>img030.jpg</filename>
+	<path>D:/Car/2.Van/img030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>985</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>14</ymin>
+			<xmax>977</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
