@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5.Truck</folder>
+	<filename>img052.jpg</filename>
+	<path>D:/noey-KICE/Car/5.Truck/img052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>235</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>
