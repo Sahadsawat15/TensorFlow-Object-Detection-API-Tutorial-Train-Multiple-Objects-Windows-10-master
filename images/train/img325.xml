@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4.Pickup</folder>
+	<filename>img025.jpg</filename>
+	<path>D:/noey-KICE/Car/4.Pickup/img025.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>57</ymin>
+			<xmax>820</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
