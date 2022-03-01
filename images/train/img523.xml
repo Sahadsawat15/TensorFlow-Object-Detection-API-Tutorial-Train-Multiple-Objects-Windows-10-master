@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6.Motorcycle</folder>
+	<filename>img023.jpg</filename>
+	<path>D:/noey-KICE/Car/6.Motorcycle/img023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>703</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>63</ymin>
+			<xmax>953</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>
