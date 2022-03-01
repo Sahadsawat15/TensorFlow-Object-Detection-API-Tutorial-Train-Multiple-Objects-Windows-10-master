@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3.Sedan</folder>
+	<filename>img021.JPG</filename>
+	<path>D:/Car/3.Sedan/img021.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>113</ymin>
+			<xmax>596</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>
