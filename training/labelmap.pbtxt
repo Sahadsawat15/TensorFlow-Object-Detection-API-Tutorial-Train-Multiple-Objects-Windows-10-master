@@ -1,29 +1,29 @@
 item {
   id: 1
-  name: 'nine'
+  name: 'Bus'
 }
 
 item {
   id: 2
-  name: 'ten'
+  name: 'Van'
 }
 
 item {
   id: 3
-  name: 'jack'
+  name: 'Sedan'
 }
 
 item {
   id: 4
-  name: 'queen'
+  name: 'Pickup'
 }
 
 item {
   id: 5
-  name: 'king'
+  name: 'Truck'
 }
 
 item {
   id: 6
-  name: 'ace'
+  name: 'Motorcycle'
 }
